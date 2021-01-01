@@ -16,3 +16,4 @@ A collection of my Juypter notebooks that I use to work various things out.
 
 7: ddr_test_sig_gen.ipynb:  I had a DDR memory to fill with samples to be played out of a DAC.  Needed to create tones that would roll over correctly to not have spurs.
 
+8: lms_test.ipynb: Implementing LMS filter in system identification format
